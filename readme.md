@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Imran Haider, a **Senior FullStack Developer / Technical Lead / Technical Project Manager ** (specializing in **Laravel, Vue & React Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/sheensol) on _Upwork_. I have 15+ years experience working and worked on server and front end frameworks, moreover i am PMP Certified as well as I have done AWS Certifications.
+🎓 I am Imran Haider, a **Senior FullStack Developer / Technical Lead / Technical Project Manager ** (specializing in **Laravel, Wordpress, Vue & React Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/sheensol) on _Upwork_. I have 15+ years experience, In my whole career I worked on many Backend and Frontend frameworks, during that this time period I also done PMP Certification as well as some AWS Certifications. So at this stage I have strong grip on Technical side skills, Project Management Skills, and DevOps Skills.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Large Organizations including, **Unilever**, **Intervene 12K **, **MicDonalds**, **Imperial Learning **, and countless others. I am really enthusiastic about learning new technology. I always keen in learning new technologies like **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I have done huge projects on upwork [**Freelancing**](https://www.upwork.com/freelancers/sheensol) and made a name for myself.
 
